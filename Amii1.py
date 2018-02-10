@@ -42,7 +42,7 @@ cl.login(token="EpZmr1vHTETBgTktOSFd.rLylacrPH39WJb0UIwB8Nq.iF+C5K0kG+xhIuIcc90v
 cl.loginResult()
 
 
-print "Amii"
+print "●▬▬▬▬๑۩A̴Z̴M̴I̴ T̴E̴A̴M̴B̴O̴T̴۩๑▬▬▬▬▬●"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMessage= """\n
@@ -335,8 +335,9 @@ autocancel = {}
 autoinvite = []
 autoleaveroom = []
 targets = []
-admin = ["u78e5efff85bf97393cc2c4b8ecf93d25","ub5ae780d74acdd2c05b750ef7fb4ae31","u2355fb85d6b43785e0b7770f956d0347"]
-owner = ["u78e5efff85bf97393cc2c4b8ecf93d25","ub5ae780d74acdd2c05b750ef7fb4ae31","u2355fb85d6b43785e0b7770f956d0347"]
+Bots=[]
+admin = "u71b6799e1c37868a871d442e67633182"
+owner = "u71b6799e1c37868a871d442e67633182"
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -346,7 +347,7 @@ wait = {
     'autoAdd':False,
     'message':"Thanks for add Me",
     "lang":"JP",
-    "comment":"AutoLike by ●▬▬▬▬๑۩A̴M̴I̴I̴ T̴E̴A̴M̴B̴O̴T̴۩๑▬▬▬▬▬●",
+    "comment":"AutoLike by ●▬▬▬▬๑۩A̴Z̴M̴I̴ T̴E̴A̴M̴B̴O̴T̴۩๑▬▬▬▬▬●",
     "welmsg":"welcome to group",
     "commentOn":True,
     "commentBlack":{},
